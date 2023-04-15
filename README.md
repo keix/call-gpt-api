@@ -29,3 +29,6 @@ Replace \*model\* variable in settings.lisp with the model of your chiose, and t
 ```
  $ ./call-gpt-api
 ```
+
+### License
+Under the terms of the [MIT License](https://opensource.org/license/mit/). Copyright (c) 2023 kei sawamura.
